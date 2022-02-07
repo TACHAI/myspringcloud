@@ -12,6 +12,8 @@
         <module>mvc-config</module>
         <module>authority-center</module>
         <module>admin</module>
+        <module>gateway</module>
+        <module>nacos-client</module>
     </modules>
     <packaging>pom</packaging>
     <parent>
