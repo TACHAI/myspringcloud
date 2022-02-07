@@ -10,6 +10,8 @@
     <modules>
         <module>common</module>
         <module>mvc-config</module>
+        <module>authority-center</module>
+        <module>admin</module>
     </modules>
     <packaging>pom</packaging>
     <parent>
